@@ -37,11 +37,12 @@
         #contact-info ul{
             width: 30px;
             line-height: 1.5;
-            
         }
         P{
-            padding: 10px;
+            padding-top: 10px;
             color: #777;
+            
+            margin-right: 450px;
         }
         a{
             color: #d21034;
